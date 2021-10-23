@@ -1,0 +1,30 @@
+.custom{
+    margin-top: 20px;
+    width: 450px;
+    height: 290px;
+    border-radius: 5px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    padding-left: 8px;
+}
+.menu-li{
+    background: white;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a{
+    color: black;
+    font-size: 21px;
+    text-decoration: none;
+}
+.menu-li:hover{
+    background: rgb(233, 231, 231);
+}
+.font{
+    font-size: 27px;
+}
